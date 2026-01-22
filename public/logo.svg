@@ -1,0 +1,7 @@
+﻿<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="120" height="120" rx="24" fill="#0F1E1A"/>
+  <path d="M44 82C44 66 56 52 74 52C88 52 98 61 98 75C98 89 88 98 74 98H52C47 98 44 94 44 90V82Z" fill="#D6B27B"/>
+  <path d="M52 44C56 38 64 34 74 34C84 34 92 38 96 44" stroke="#D6B27B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M44 108H96" stroke="#F5F1EA" stroke-width="6" stroke-linecap="round"/>
+  <text x="70" y="75" text-anchor="middle" fill="#0F1E1A" font-size="20" font-family="Arial" font-weight="700">D</text>
+</svg>
